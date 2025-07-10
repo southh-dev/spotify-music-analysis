@@ -2,7 +2,7 @@
 
 Hi! Welcome to my Spotify Data Analysis Project.
 
-The first notebook i've made is a spotify top tracks analysis which shows me analysing my own spotify profile for various things, like my top tracks, genres and more.
+My main notebook is a spotify user analysis that is going to analyse a bunch of my personal music habits. The goal is to analyse the difference in music listening habits in different time frames.
 
 
 If you'd like to fork this project and use some of my code yourself, be sure to create a config.py file with the following formatting :
